@@ -41,7 +41,7 @@
 									style="font-weight: 600;color: rgb(255, 255, 255);">
 										<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 										<!-- <img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" width=100> -->
-										<img src="https://littlelingua.eu/images/logo.png" alt="Logo" width='44px'>
+										<img src="/wp-content/uploads/2018/04/logo-1.png" alt="Logo" width='44px'>
 										<div style="float: right;padding: 10px;">Little Lingua</div>
 									</a>
 									<nav class="navbar__menu">
